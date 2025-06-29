@@ -3,8 +3,11 @@
 https://public.tableau.com/views/Projectfile_17511154605450/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 # Credly Badge Links : 
 Esambadi Pavan Kalyan - https://www.credly.com/badges/1d5b3f0e-8ec0-4d56-a718-4b7f3cfd0b3e/public_url
+
 F Thasmiya - https://www.credly.com/earner/earned/badge/1b3cb180-5c3b-49c8-8ba1-cf3cd60335c7
+
 G Jayasree - https://www.credly.com/badges/755f347a-60cd-4219-9e8c-dbeb8333d75c
+
 G Kalyani - https://www.credly.com/badges/9d35c329-8b19-4cf9-8f4d-a74a9d55ac8d
 # Documentation video Link : 
 https://drive.google.com/file/d/1RTsxP5QzyZmax1zQtY3mgvEBS_WQQoLE/view?usp=sharing
