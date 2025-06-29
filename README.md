@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1RTsxP5QzyZmax1zQtY3mgvEBS_WQQoLE/view?usp=shari
 # Web Integration Video Link :
 https://drive.google.com/file/d/1dNZtNZBbNSX30efVtmJewTvsgxT9r2Xt/view?usp=sharing
 # Dataset Link :- 
-whc-sites-2019 - Copy.xls
+https://docs.google.com/spreadsheets/d/1miaE0-BOp65s8vu1AhpW5_X0FZaB935w/edit?usp=drive_link&ouid=101270979592210115623&rtpof=true&sd=true
 # Git Hub Link :- 
 https://github.com/Pavankalyan-12395/Heritage-Treasures.git
 # Tableau File  Link :- 
