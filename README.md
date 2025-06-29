@@ -19,3 +19,5 @@ https://docs.google.com/spreadsheets/d/1miaE0-BOp65s8vu1AhpW5_X0FZaB935w/edit?us
 https://github.com/Pavankalyan-12395/Heritage-Treasures.git
 # Tableau File  Link :- 
 https://public.tableau.com/views/Projectfile_17511154605450/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+# Final Report
+https://drive.google.com/file/d/1zIQtZnLGajzVhPEhJ5EBfZMw8Ag7hW4Y/view?usp=sharing
